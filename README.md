@@ -22,4 +22,4 @@ Gosto de estudar novas tecnologias nas horas vagas.
 </div>
 
 ## Sobre mim
-Tenho experiência e habilidades em uma variedade de tecnologias, desde desenvolvimento front-end até back-end. Estou sempre em busca de desafios emocionantes e oportunidades de aprendizado.
+Tenho experiência e habilidades em uma variedade de tecnologias, desde desenvolvimento front-end até back-end.
