@@ -23,3 +23,5 @@ Gosto de estudar novas tecnologias nas horas vagas.
 
 ## Sobre mim
 Tenho experiência e habilidades em uma variedade de tecnologias, desde desenvolvimento front-end até back-end.
+
+![snake gif](https://github.com/JeanRojasD/JeanRojasD/blob/output/github-contribution-grid-snake.svg)
