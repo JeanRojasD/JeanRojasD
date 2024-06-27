@@ -1,8 +1,5 @@
 ### Hi everyone! Eu Sou Jean Rojas 🐱‍👤
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-rojas-727432210/)
-
-Gosto de estudar novas tecnologias nas horas vagas.
-
 ## Tecnologias utilizadas no dia a dia:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrojasd&hide_progress=true)
